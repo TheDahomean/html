@@ -1,2 +1,2 @@
 # sheldon
-For Sheldon EC@
+For Sheldon EC2 Exercises
